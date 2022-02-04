@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PM-00-STAR&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Pratibha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PM-00-STAR)](https://github.com/PM-00-STAR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PM-00-STAR)](https://github.com/PM-00-STAR/github-readme-stats)
 

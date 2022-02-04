@@ -2,7 +2,7 @@
    ### a full stack and a data science enthusiast👋
 Profile Views: 
                [![HitCount](http://hits.dwyl.com/PM-00-STAR/PM-00-STAR.svg?style=flat-square)](http://hits.dwyl.com/PM-00-STAR/PM-00-STAR)
-               ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+               ![](https://visitor-badge.laobi.icu/badge?page_id=PM-00-STAR.PM-00-STAR)
 
 
 

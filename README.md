@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for job which suits my profile
 - 📫 I'm a 2nd year mechanical engineering student of NIT Jamshedpur
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PM-00-STAR&theme=radical)
 

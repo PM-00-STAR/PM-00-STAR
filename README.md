@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for job which suits my profile
 - 📫 I'm a 2nd year mechanical engineering student of NIT Jamshedpur
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PM-00-STAR&theme=gotham)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PM-00-STAR&theme=midnight-purple)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PM-00-STAR&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

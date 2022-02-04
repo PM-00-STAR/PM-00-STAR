@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m open to work in MERN stack project and data analysis project
 - 👯 Contact me at pratibhamitra01@gmail.com
 - 🤔 I’m looking for internship which suits my profile
-- 📫 I'm a 2nd year mechanical engineering student of NIT Jamshedpur
+- 📫 I'm a 2nd year B.TECH student of NIT Jamshedpur
 
 ## ✉️ Find me on:
 

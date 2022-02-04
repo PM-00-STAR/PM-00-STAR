@@ -1,7 +1,7 @@
    ## Hi there I am Pratibha Mitra,
    ### a full stack and a data science enthusiast👋
                
-               ![](https://visitor-badge.laobi.icu/badge?page_id=PM-00-STAR)
+               ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PM-00-STAR)
 
 
 

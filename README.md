@@ -37,11 +37,13 @@ Here are some ideas to get you started:
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PM-00-STAR&layout=compact&theme=radical)](https://github.com/PM-00-STAR/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PM-00-STAR&theme=midnight-purple)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PM-00-STAR&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PM-00-STAR&layout=compact)](https://github.com/PM-00-STAR/github-readme-stats)
+
 
 
 [![Pratibha's github activity graph](https://activity-graph.herokuapp.com/graph?username=PM-00-STAR&theme=react-dark)](https://github.com/PM-00-STAR/github-readme-activity-graph)

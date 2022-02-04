@@ -1,5 +1,6 @@
 ### Hi there I am Pratibha Mitra,a full stack and a data science enthusiast👋
 [![HitCount](http://hits.dwyl.com/PM-00-STAR/PM-00-STAR.svg?style=flat-square)](http://hits.dwyl.com/PM-00-STAR/PM-00-STAR)
+[![HitCount](http://hits.dwyl.com/PM-00-STAR/PM-00-STAR.svg?style=flat-square&show=unique)](http://hits.dwyl.com/PM-00-STAR/PM-00-STAR)
 
 
 Here are some ideas to get you started:

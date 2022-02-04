@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PM-00-STAR&layout=compact)](https://github.com/PM-00-STAR/github-readme-stats)
 
 
-[![Pratibha's github activity graph](https://activity-graph.herokuapp.com/graph?username=PM-00-STAR&theme=dracula)](https://github.com/PM-00-STAR/github-readme-activity-graph)
+[![Pratibha's github activity graph](https://activity-graph.herokuapp.com/graph?username=PM-00-STAR&theme=react-dark)](https://github.com/PM-00-STAR/github-readme-activity-graph)
 

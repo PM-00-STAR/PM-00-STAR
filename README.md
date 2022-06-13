@@ -1,5 +1,5 @@
    ## Hi there I am Pratibha Mitra,
-   ### Looking for internship in data science and machine learning also i have some working experience on web development 👋
+   ### Looking for internship in data science and machine learning also i have some working experience with web development 👋
    
    ![](https://visitor-badge.laobi.icu/badge?page_id=PM-00-STAR.PM-00-STAR)
   

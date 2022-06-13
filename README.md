@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data science or machine learning
+- 🔭 I’m currently working on data science and machine learning
 - 🌱 I’m open to work in Full stack project or data science project
 - 👯 Contact me at pratibhamitra01@gmail.com
 - 🤔 I’m looking for internship which suits my profile

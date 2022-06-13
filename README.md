@@ -8,11 +8,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on mern stack development
-- 🌱 I’m open to work in Full stack project and data analysis project
+- 🔭 I’m currently working on data science and machine learning
+- 🌱 I’m open to work in Full stack project and data science project
 - 👯 Contact me at pratibhamitra01@gmail.com
 - 🤔 I’m looking for internship which suits my profile
-- 📫 I'm a 2nd year B.TECH student of NIT Jamshedpur
+- 📫 I'm a 3rd year B.TECH student of NIT Jamshedpur
 
 ## ✉️ Find me on:
 

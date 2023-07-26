@@ -1,5 +1,5 @@
    ## Hi there I am Pratibha Mitra,
-   ### Looking for internship in data science and machine learning also i have some working experience with web development 👋
+   ### 👋
    
    ![](https://visitor-badge.laobi.icu/badge?page_id=PM-00-STAR.PM-00-STAR)
   
@@ -8,11 +8,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data science and machine learning
-- 🌱 I’m open to work in Full stack project or data science project
+- 🔭 I’m a good problem solver
+- 🌱 I’m a critical thinker
 - 👯 Contact me at pratibhamitra01@gmail.com
-- 🤔 I’m looking for internship which suits my profile
-- 📫 I'm a 3rd year B.TECH student of NIT Jamshedpur
+- 🤔 I’m looking for career which suits my profile
+- 📫 I'm a Final year B.TECH student of NIT Jamshedpur
 
 ## ✉️ Find me on:
 
